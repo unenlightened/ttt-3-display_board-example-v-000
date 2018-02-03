@@ -4,4 +4,7 @@ def display_board
   new_line = "-----------"
   puts board_space[0] + "|" + board_space[1] + "|" + board_space[2]
   puts new_line
+  puts "#{board_space[3]}|#{board_space[4]}|#{board_space[5]}"
+  puts new_line
+  puts 
 end
