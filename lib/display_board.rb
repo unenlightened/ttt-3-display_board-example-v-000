@@ -6,5 +6,5 @@ def display_board
   puts new_line
   puts "#{board_space[3]}|#{board_space[4]}|#{board_space[5]}"
   puts new_line
-  puts 
+  puts "#{board_space[6]}|#{board_space[7]}|#{board_space[8]}"
 end
